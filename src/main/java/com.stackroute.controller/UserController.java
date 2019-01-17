@@ -1,5 +1,6 @@
 package com.stackroute.controller;
 
+import com.stackroute.services.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
